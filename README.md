@@ -24,4 +24,4 @@ El análisis de datos se realizó utilizando Python. El script `Analisis.ipynb` 
 
 #Comentario Extra
 
-Este es mi primer proyecto de análisis de datos y estoy muy emocionado de haberlo completado. Sé que hay mucho por aprender y mejorar, y estoy comprometido a seguir perfeccionando mis habilidades en SQL, Python y Power BI. ¡Espero que este proyecto sea solo el comienzo de mi viaje en el mundo del análisis de datos!
+Este es mi primer proyecto de análisis de datos y estoy muy emocionado de haberlo completado. Sé que hay mucho por aprender y mejorar, y estoy comprometido a seguir perfeccionando mis habilidades en SQL, Python y Complementarlo con PowerBI. ¡Espero que este proyecto sea solo el comienzo de mi viaje en el mundo del análisis de datos!
