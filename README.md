@@ -2,8 +2,8 @@
 
 #Introducción:
 
-Este proyecto realiza un análisis de ventas utilizando datos extraídos de una base de datos SQLite y analizados en Python,los datos
-se extrayeron de Northwind
+Hola me llamo Orlando Porta, soy estudiando de la carrera Ingenieria industrial e hice este proyecto básico para realizar un análisis de ventas utilizando datos extraídos de una base de datos SQLite y analizados en Python,los datos
+se extrayeron de Northwind, espero que sea de su agrado
 
 #Datos
 
